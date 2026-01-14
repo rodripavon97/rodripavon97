@@ -1,75 +1,24 @@
-### 👋 Hola, soy Rodrigo Pavón Gómez
+# 💫 About Me:
+Hola, soy Rodrigo Pavón Gómez<br><br>🎯 **Frontend Developer Jr**  <br>🎓 Técnico en Programación Informática  <br>⚛️ React | Angular | TypeScript  <br>🧪 Background en testing manual, enfocado en calidad  <br>🌱 Aprendiendo arquitectura frontend y backend con Spring Boot  <br><br>Me interesa construir **interfaces claras, mantenibles y escalables**, aplicando **Clean Code**, principios **SOLID** y buenas prácticas desde el inicio.<br>
 
-🎯 **Frontend Developer Jr**  
-🎓 Técnico en Programación Informática  
-⚛️ React | Angular | TypeScript  
-🧪 Background en testing manual, enfocado en calidad  
-🌱 Aprendiendo arquitectura frontend y backend con Spring Boot  
 
-Me interesa construir **interfaces claras, mantenibles y escalables**, aplicando **Clean Code**, principios **SOLID** y buenas prácticas desde el inicio.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigopavongomez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavongomezrodrigo@gmail.com) 
 
----
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rodripavon97&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rodripavon97&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodripavon97&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📣 ¿Querés contactarme?
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rodripavon97&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://www.linkedin.com/in/rodrigopavongomez">
-  <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Pavón%20Gómez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rodripavon97">
-  <img src="https://img.shields.io/badge/GitHub-rodripavon97-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rodripavon97&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rodripavon97&icon=3&color=7)](https://visitcount.itsvg.in)
 
-### ⚡️ Sobre mí
-
-- 💻 Frontend con foco en **React y Angular**
-- 🧠 Me importa el **por qué** del código, no solo que funcione
-- 🧪 Experiencia como tester manual → ojo clínico para bugs
-- 🧱 Interés fuerte en arquitectura y separación de responsabilidades
-- 🚀 Buscando mi primera oportunidad profesional como Frontend Jr
-
----
-
-### 📊 Lenguajes usados
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d6efd)
-![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d6efd)
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d6efd)
-![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d6efd)
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=0d6efd)
-![Angular](https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=0d6efd)
-
-### Estado y arquitectura
-![Zustand](https://img.shields.io/badge/Zustand-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=6610f2)
-![SOLID](https://img.shields.io/badge/SOLID-grey?style=for-the-badge&labelColor=6610f2)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-grey?style=for-the-badge&labelColor=6610f2)
-
-### Backend & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=198754)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-grey?style=for-the-badge&logo=springboot&logoColor=white&labelColor=198754)
-![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=198754)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=198754)
-
----
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodripavon97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodripavon97&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodripavon97&theme=dark&hide_border=true"/>
-</p>
----
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rodripavon97" />
-</p>
-
-⭐️ Gracias por visitar mi perfil
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
